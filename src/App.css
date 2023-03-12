@@ -100,12 +100,9 @@ input[type="text"] {
 .info_key:last-child{
   border: 0;
 }
-.img2{
-  margin-right: 15px;
-}
-.loc{
+/* .loc{
   width: 24px;
-}
+} */
 .info_value{
   font-weight: 200;
   color: rgb(0, 0, 0);
@@ -116,19 +113,4 @@ input[type="text"] {
   font-weight: 400;
   color: red ;
   text-align: center;
-}
-
-/***** Footer ******/
-footer{
-  text-align: center;
-  text-decoration: none;
-  color: #fff;
-  font-weight: 400;
-  font-size: 19px;
-}
-.link{
-  text-decoration: none;
-  color: #fff;
-  font-family: 'toyor-aljanah';
-  font-size: 20px;
 }
