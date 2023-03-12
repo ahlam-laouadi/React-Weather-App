@@ -100,9 +100,6 @@ input[type="text"] {
 .info_key:last-child{
   border: 0;
 }
-/* .loc{
-  width: 24px;
-} */
 .info_value{
   font-weight: 200;
   color: rgb(0, 0, 0);
